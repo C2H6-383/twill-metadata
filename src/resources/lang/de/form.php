@@ -15,7 +15,7 @@ return [
         ],
         'description' => [
             'label' => 'Meta-Beschreibung',
-            'note' => '80 - 120 characters sind empfohlen',
+            'note' => '80 - 120 Zeichen sind empfohlen',
         ],
         'noindex' => [
             'label' => 'Suchmaschinen bitten, diese Seite nicht zu indexieren (noindex tag).',
