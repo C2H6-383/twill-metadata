@@ -25,19 +25,19 @@ return [
         ],
         'canonical_url' => [
             'label' => 'Kanonische URL',
-            'note' => 'Dieses Feld nur ausfüllen, wenn sich die kanonische URL von der Website-URL unterscheidet',
+            'note' => 'falls kanonische URL nicht die Website-URL',
         ],
         'og_image' => [
             'label' => 'Social-Card-Bild',
-            'note' => 'Geben Sie ein benutzerdefiniertes Bild für Twitter- und Facebook-Cards an (empfohlene Breite 1200px)',
+            'note' => 'benutzerdefiniertes Bild für Twitter- und Facebook-Cards (Breite 1200px)',
         ],
         'og_title' => [
             'label' => 'Social-Card-Titel',
-            'note' => 'Geben Sie einen benutzerdefinierten Titel an (standardmäßig wird der Meta-Titel verwendet, wenn dieses Feld leer ist)',
+            'note' => 'eigener Titel (standardmäßig der Meta-Titel)',
         ],
         'og_description' => [
             'label' => 'Social-Card-Beschreibung',
-            'note' => 'Geben Sie eine benutzerdefinierte Beschreibung an (standardmäßig wird der Meta-Beschreibung verwendet, wenn dieses Feld leer ist)',
+            'note' => 'eigene Beschreibung (standardmäßig die Meta-Beschreibung)',
         ],
         'og_card_type' => [
             'label' => 'Social-Card-Stil für Twitter',
